@@ -1,0 +1,12 @@
+[
+    {
+        "task": "drink water",
+        "completed": true,
+        "category": "Today"
+    },
+    {
+        "task": "walk",
+        "completed": false,
+        "category": "Today"
+    }
+]
